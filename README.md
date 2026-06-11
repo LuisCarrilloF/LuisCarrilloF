@@ -3,8 +3,8 @@
 1. [Sobre mí](#sobre-mi)
 2. [Algunos proyectos](#experiencia)  
     2.1 [Bitácora Digital](#1-desarrollo-del-sitema-bitácroa-digital)   
-    2.2 [CV en React.js]()
-3. [Experiencia Laboral]()
+    2.2 [CV en React.js](#2-cv-con-reactjs)
+3. [Experiencia Laboral](#experiencia-laboral)
 4. [Estudios](#estudios)
 # Sobre mi
 My nombre es Luis Angel Carrillo, llevo medio año enfocandome en el desarrollo de aplicaciones web. Actualmente me encuentro realizando proyectos para el ayuntamiento de Cuauhtémoc y poder ganar experiencia en este ambito.
@@ -16,6 +16,7 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 - Django
 - Python
 - Next.js
+- MySql
 > ![NOTE]  
 > El repositorio es privado por temas de confidencialidad de parte del ayuntamiento de Cuauhtémoc.  
 > Sin embargo, se puede mostrar el proyecto en ejecucion de forma local, solo bajo solicitud.  
@@ -24,6 +25,15 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 * Desarrollo del sitema (Tanto frontend como backend).
 * Despliegue en la IntraNet.
 
+## 2. CV con React.js
+Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyecto con constantes cambios, ya que sigo desarrollandome profesionalmente.
+
+### Tecnologías usadas
+* __Vercel__ para el deploy
+* __git__ para el control de versiones
+* __React__ como fremework
+
+Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-react.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
 
 # Experiencia Laboral
 ## Documentación del Sistema Echo en Colima
