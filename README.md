@@ -17,7 +17,7 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 - Python
 - Next.js
 - MySql
-> ![NOTE]  
+> [!NOTE]  
 > El repositorio es privado por temas de confidencialidad de parte del ayuntamiento de Cuauhtémoc.  
 > Sin embargo, se puede mostrar el proyecto en ejecucion de forma local, solo bajo solicitud.  
 ### Principales Actividades
