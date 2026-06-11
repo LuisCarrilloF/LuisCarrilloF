@@ -2,9 +2,9 @@
 ### Bienbenido a mi perfil 
 # INDICE
 1. [Sobre mí](#sobre-mi)
-2. [Algunos proyectos](#experiencia)  
+2. [Proyectos destacados](#proyectos-destacados)  
     2.1 [Bitácora Digital](#1-desarrollo-del-sitema-bitácroa-digital)   
-    2.2 [CV en React.js](#2-cv-con-reactjs)
+    2.2 [CV con React.js](#2-cv-con-reactjs)
 3. [Experiencia Laboral](#experiencia-laboral)
 4. [Estudios](#estudios)
 # Sobre mi
@@ -23,10 +23,10 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 [![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts)](https://skillicons.dev)
 
 > [!NOTE]  
-> El repositorio es privado por temas de confidencialidad de parte del ayuntamiento de Cuauhtémoc.  
-> Sin embargo, se puede mostrar el proyecto en ejecucion de forma local, solo bajo solicitud.  
+> El repositorio es privado por temas de confidencialidad establecidos por el Ayuntamiento de Cuauhtémoc.    
+> Sin embargo, el sistema puede mostrarse en ejecución de forma local bajo solicitud. 
 ### Principales Actividades
-* Analisis de requerimientos y documemntación.
+* Analisis de requerimientos, documemntación y maquetado.
 * Desarrollo del sitema (Tanto frontend como backend).
 * Despliegue en la IntraNet.
 
