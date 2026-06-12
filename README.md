@@ -16,12 +16,12 @@ Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en e
 [![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git)](https://skillicons.dev)
 
 #### Otras tecnologías que también manejo:  
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,react,sqlite,laravel,nodejs,express,vscode,vue,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,react,sqlite,laravel,nodejs,express,vscode,vue,vite,flutter)](https://skillicons.dev)
 
 
 Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauhtémoc, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
 
-# Proyectos destacados
+# :star2: Proyectos destacados
 ## 1. Bitácroa Digital
 Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
 ### Tecnologias usadas  
@@ -35,7 +35,7 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 * Desarrollo del sitema (Tanto frontend como backend).
 * Despliegue en la IntraNet.
 
-## 2. CV con React.js
+## 2. :folder: CV con React.js
 Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyecto con constantes cambios, ya que sigo desarrollandome profesionalmente.
 
 ### Tecnologías usadas
@@ -43,11 +43,15 @@ Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyect
 
 Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-react.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
 
+# Otros proyectos
+# Tarjeta de presentación para un negocio
+## Etapa: :contruction:
+Actualmente se encuentra en desarrollo
 # Experiencia Laboral
-## Documentación del Sistema Echo en Colima
+## :book: Documentación del Sistema Echo en Colima
 Durante mi enstancia en el complejo administrativo de colima, realice la documentacion y analisis, para que posteriormente entrara en etapa de desarrollo, el sistema que lleva por nombre "**Hecho en Colima**".
 
-## InovaTec
+## :tools: InovaTec
 Participación en un entorno real, encargándome de la configuración e instalación de equipos necesarios para la realización del evento, así como del monitoreo de redes y conexiones para garantizar su correcto funcionamiento.
 
 ## Otros trabajos
