@@ -1,4 +1,4 @@
-# Hola, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+# ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 ### Bienbenido a mi perfil 
 # INDICE
 1. [Sobre mí](#sobre-mi)
@@ -22,7 +22,7 @@ Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en e
 Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauhtémoc, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
 
 # :star2: Proyectos destacados
-## 1. Bitácroa Digital
+## 1. :cloud: Bitácroa Digital
 Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
 ### Tecnologias usadas  
 [![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts)](https://skillicons.dev)
