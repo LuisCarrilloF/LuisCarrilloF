@@ -51,7 +51,7 @@ Actualmente se encuentra en desarrollo
 ## :book: Documentación del Sistema Echo en Colima
 Durante mi enstancia en el complejo administrativo de colima, realice la documentacion y analisis, para que posteriormente entrara en etapa de desarrollo, el sistema que lleva por nombre "**Hecho en Colima**".
 
-## :tools: InovaTec
+## :wrench: InovaTec
 Participación en un entorno real, encargándome de la configuración e instalación de equipos necesarios para la realización del evento, así como del monitoreo de redes y conexiones para garantizar su correcto funcionamiento.
 
 ## :chart_with_upwards_trend: Otros trabajos
