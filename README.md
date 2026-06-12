@@ -43,7 +43,7 @@ Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyect
 
 Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-react.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
 
-# :filing_cabinet: Otros proyectos
+# :package: Otros proyectos
 # Tarjeta de presentación para un negocio
 ## Etapa: :contruction:
 Actualmente se encuentra en desarrollo
