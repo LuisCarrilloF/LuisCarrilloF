@@ -11,7 +11,7 @@
 # Sobre mi
 Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en el desarrollo de aplicaciones web, especializándome principalmente en tecnologías como __Django, Next.js__ y __MySQL__.
 
-### Este vendria siendo mi __stack__ favorito:  
+### :star: Este vendria siendo mi __stack__ favorito:  
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git)](https://skillicons.dev)
 
