@@ -44,8 +44,8 @@ Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyect
 Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-react.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
 
 # :package: Otros proyectos
-# Tarjeta de presentación para un negocio
-## Etapa: :contruction:
+## Tarjeta de presentación para un negocio
+### Etapa: :test_tube:
 Actualmente se encuentra en desarrollo
 # :briefcase: Experiencia Laboral
 ## :book: Documentación del Sistema Echo en Colima
