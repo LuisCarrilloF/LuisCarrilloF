@@ -35,7 +35,7 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 * Desarrollo del sitema (Tanto frontend como backend).
 * Despliegue en la IntraNet.
 
-## 2. :folder: CV con React.js
+## 2. :card_index_dividers: CV con React.js
 Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyecto con constantes cambios, ya que sigo desarrollandome profesionalmente.
 
 ### Tecnologías usadas
