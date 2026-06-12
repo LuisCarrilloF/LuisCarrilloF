@@ -5,13 +5,18 @@
 2. [Proyectos destacados](#proyectos-destacados)  
     2.1 [Bitácora Digital](#1-desarrollo-del-sitema-bitácroa-digital)   
     2.2 [CV con React.js](#2-cv-con-reactjs)
-3. [Experiencia Laboral](#experiencia-laboral)
-4. [Estudios](#estudios)
+3. [Otros Proyectos]()
+4. [Experiencia Laboral](#experiencia-laboral)
+5. [Estudios](#estudios)
 # Sobre mi
 Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en el desarrollo de aplicaciones web, especializándome principalmente en tecnologías como __Django, Next.js__ y __MySQL__.
-Este vendria siendo mi __stack__ favorito:  
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py)](https://skillicons.dev)
+### Este vendria siendo mi __stack__ favorito:  
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git)](https://skillicons.dev)
+
+#### Otras tecnologías que también manejo:  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,react,sqlite,laravel,nodejs,express,vscode,vue,vite)](https://skillicons.dev)
 
 
 Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauhtémoc, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
@@ -42,10 +47,13 @@ Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-reac
 ## Documentación del Sistema Echo en Colima
 Durante mi enstancia en el complejo administrativo de colima, realice la documentacion y analisis, para que posteriormente entrara en etapa de desarrollo, el sistema que lleva por nombre "**Hecho en Colima**".
 
+## InovaTec
+Participación en un entorno real, encargándome de la configuración e instalación de equipos necesarios para la realización del evento, así como del monitoreo de redes y conexiones para garantizar su correcto funcionamiento.
+
 ## Otros trabajos
-Actualmente, me encuentro trabajando fuera de mi area, sin embargo, me mantengi activo en el ambito laboral.  
+Actualmente, me encuentro trabajando fuera de mi area, sin embargo, me mantengo activo en el ambito laboral.  
 Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo para seguir creciendo en el ambito de desarrollo de Software.
 # Estudios
 Recien egresado de la carrera de Ingeniería Informática.  
 
-Actualmenteme encuentro estudiand Ingles, voy en el nivel 2.
+Actualmenteme me encuentro estudiando Ingles, voy en el nivel 2.
