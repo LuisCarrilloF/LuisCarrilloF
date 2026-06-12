@@ -8,7 +8,7 @@
 3. [Otros Proyectos]()
 4. [Experiencia Laboral](#experiencia-laboral)
 5. [Estudios](#estudios)
-# Sobre mi
+# :bust_in_silhouette: Sobre mi
 Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en el desarrollo de aplicaciones web, especializándome principalmente en tecnologías como __Django, Next.js__ y __MySQL__.
 
 ### :star: Este vendria siendo mi __stack__ favorito:  
