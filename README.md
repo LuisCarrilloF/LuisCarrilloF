@@ -47,17 +47,17 @@ Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-reac
 # Tarjeta de presentación para un negocio
 ## Etapa: :contruction:
 Actualmente se encuentra en desarrollo
-# Experiencia Laboral
+# :briefcase: Experiencia Laboral
 ## :book: Documentación del Sistema Echo en Colima
 Durante mi enstancia en el complejo administrativo de colima, realice la documentacion y analisis, para que posteriormente entrara en etapa de desarrollo, el sistema que lleva por nombre "**Hecho en Colima**".
 
 ## :tools: InovaTec
 Participación en un entorno real, encargándome de la configuración e instalación de equipos necesarios para la realización del evento, así como del monitoreo de redes y conexiones para garantizar su correcto funcionamiento.
 
-## Otros trabajos
+## :chart_with_upwards_trend: Otros trabajos
 Actualmente, me encuentro trabajando fuera de mi area, sin embargo, me mantengo activo en el ambito laboral.  
 Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo para seguir creciendo en el ambito de desarrollo de Software.
-# Estudios
-Recien egresado de la carrera de Ingeniería Informática.  
+# :mortar_board: Estudios
+Recien egresado de la carrera de Ingeniería Informática, por parte del Tecnologico Nacional de Colima.  
 
-Actualmenteme me encuentro estudiando Ingles, voy en el nivel 2.
+Actualmenteme me encuentro estudiando Ingles en una escuala privada que lleva por nombre EnglishMode, voy en el nivel 2.
