@@ -2,7 +2,7 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=ads-juicy-fresh&border_radius=4.9&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 ### Bienbenido a mi perfil 
 
 </div>
