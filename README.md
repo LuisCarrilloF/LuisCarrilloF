@@ -1,6 +1,12 @@
+<div align="center">
+
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+
 [![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=transparent)](https://git.io/streak-stats)
 ### Bienbenido a mi perfil 
+
+</div>
+
 # INDICE
 1. [Sobre mí](#bust_in_silhouette-sobre-mi)
 2. [Proyectos destacados](#star2-proyectos-destacados)  
@@ -59,6 +65,18 @@ Participación en un entorno real, encargándome de la configuración e instalac
 Actualmente, me encuentro trabajando fuera de mi area, sin embargo, me mantengo activo en el ambito laboral.  
 Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo para seguir creciendo en el ambito de desarrollo de Software.
 # :mortar_board: Estudios
-Recien egresado de la carrera de Ingeniería Informática, por parte del Tecnologico Nacional de Colima.  
 
-Actualmenteme me encuentro estudiando Ingles en una escuala privada que lleva por nombre EnglishMode, voy en el nivel 2.
+<div style="border:1px solid #05a8ff; border-radius:10px; padding:15px;">  
+
+***Ingeniería Informática***   
+  Tecnológico Nacional de México, Campus Colima.  
+  Egresado recientemente.
+
+</div>
+<br>
+<div style="border:1px solid #05a8ff; border-radius:10px; padding:15px;">
+
+***Idioma Inglés***  
+ Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 2** como parte de mi formación continua y desarrollo profesional.
+
+</div>
