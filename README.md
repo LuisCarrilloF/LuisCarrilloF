@@ -32,7 +32,7 @@ Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauht
 ## 1. :cloud: Bitácroa Digital
 Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
 ### Tecnologias usadas  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts,vercel)](https://skillicons.dev)
 
 > [!NOTE]  
 > El repositorio es privado por temas de confidencialidad establecidos por el Ayuntamiento de Cuauhtémoc.    
