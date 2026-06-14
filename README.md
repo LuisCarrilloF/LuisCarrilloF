@@ -2,13 +2,13 @@
 [![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=transparent)](https://git.io/streak-stats)
 ### Bienbenido a mi perfil 
 # INDICE
-1. [Sobre mí](#sobre-mi)
-2. [Proyectos destacados](#proyectos-destacados)  
-    2.1 [Bitácora Digital](#1-desarrollo-del-sitema-bitácroa-digital)   
-    2.2 [CV con React.js](#2-cv-con-reactjs)
-3. [Otros Proyectos]()
-4. [Experiencia Laboral](#experiencia-laboral)
-5. [Estudios](#estudios)
+1. [Sobre mí](#bust_in_silhouette-sobre-mi)
+2. [Proyectos destacados](#star2-proyectos-destacados)  
+    2.1 [Bitácora Digital](#1-cloud-bitácroa-digital)   
+    2.2 [CV con React.js](#2-card_index_dividers-cv-con-reactjs)
+3. [Otros Proyectos](#package-otros-proyectos)
+4. [Experiencia Laboral](#briefcase-experiencia-laboral)
+5. [Estudios](#mortar_board-estudios)
 # :bust_in_silhouette: Sobre mi
 Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en el desarrollo de aplicaciones web, especializándome principalmente en tecnologías como __Django, Next.js__ y __MySQL__.
 
