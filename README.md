@@ -2,8 +2,8 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=transparent)](https://git.io/streak-stats)
-### Bienbenido a mi perfil 
+[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=ads-juicy-fresh&border_radius=4.9&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+### Bienvenido a mi perfil 
 
 </div>
 
@@ -32,7 +32,7 @@ Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauht
 ## 1. :cloud: Bitácroa Digital
 Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
 ### Tecnologias usadas  
-[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts,vercel)](https://skillicons.dev)
 
 > [!NOTE]  
 > El repositorio es privado por temas de confidencialidad establecidos por el Ayuntamiento de Cuauhtémoc.    
