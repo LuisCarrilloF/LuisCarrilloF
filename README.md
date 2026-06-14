@@ -55,6 +55,11 @@ Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-reac
 ### Etapa: :test_tube:
 Actualmente se encuentra en desarrollo
 # :briefcase: Experiencia Laboral
+## Residencia Profesional
+Realicé mi residencia profesional en el Ayuntamiento de Cuauhtémoc, Colima, donde desarrollé un sistema web para la gestión y seguimiento de solicitudes de servicio.
+
+El proyecto fue desarrollado en un periodo de cuatro meses, permitiéndome adquirir experiencia en un entorno real de trabajo, desde la recopilación de requerimientos hasta la implementación de funcionalidades y la entrega de una solución funcional para la institución.
+
 ## :book: Documentación del Sistema Echo en Colima
 Durante mi enstancia en el complejo administrativo de colima, realice la documentacion y analisis, para que posteriormente entrara en etapa de desarrollo, el sistema que lleva por nombre "**Hecho en Colima**".
 
