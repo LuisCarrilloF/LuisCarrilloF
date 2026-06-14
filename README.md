@@ -33,7 +33,7 @@ Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue crea
 > Sin embargo, el sistema puede mostrarse en ejecución de forma local bajo solicitud. 
 ### Principales Actividades
 * Analisis de requerimientos, documemntación y maquetado.
-* Desarrollo del sitema (Tanto frontend como backend).
+* Desarrollo del sistema (Tanto frontend como backend).
 * Despliegue en la IntraNet.
 
 ## 2. :card_index_dividers: CV con React.js
