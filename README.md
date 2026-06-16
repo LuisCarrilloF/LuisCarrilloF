@@ -52,8 +52,11 @@ Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-reac
 
 # :package: Otros proyectos
 ## Tarjeta de presentación para un negocio
-### Etapa: :test_tube:
-Actualmente se encuentra en desarrollo
+### Descripción  
+Desarrollé una página web estática como tarjeta de presentación digital para un negocio llamado [Diversiones Santa Ana](https://dsa-tarjeta-presentacion.vercel.app/). El objetivo fue proporcionar una forma sencilla y profesional de mostrar sus servicios, información de contacto e identidad visual en internet.  
+**Tecnologías utilizadas:**  
+[![My Skills](https://skillicons.dev/icons?i=vercel,git,html,css)](https://skillicons.dev)
+
 # :briefcase: Experiencia Laboral
 ## Residencia Profesional
 Realicé mi residencia profesional en el Ayuntamiento de Cuauhtémoc, Colima, donde desarrollé un sistema web para la gestión y seguimiento de solicitudes de servicio.
