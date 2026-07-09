@@ -85,6 +85,6 @@ Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo p
 <div style="border:1px solid #05a8ff; border-radius:10px; padding:15px;">
 
 ***Idioma Inglés***  
- Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 2** como parte de mi formación continua y desarrollo profesional.
+ Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 3** como parte de mi formación continua y desarrollo profesional.
 
 </div>
