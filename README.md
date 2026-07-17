@@ -48,7 +48,7 @@ Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyect
 ### Tecnologías usadas
 [![My Skills](https://skillicons.dev/icons?i=vercel,git,react,html,css)](https://skillicons.dev)
 
-Puedes darle una checada a mi [CV en producción](https://21460686-cv-tarea-react.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
+Puedes darle una checada a mi [CV en producción](https://21460686-cv-react-waas-three.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
 
 # :package: Otros proyectos
 ## Tarjeta de presentación para un negocio
