@@ -30,7 +30,7 @@ Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauht
 
 # :star2: Proyectos destacados
 ## 1. :cloud: Bitácroa Digital
-Desarollo de un sistema por nombre **Bitácora Digital**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
+Desarollo de un sistema por nombre **Bitácora de Servicios**, este proyecto fue creado en mi recidencia profecional, enfocado en el desarrollo de software para el ayuntamiento de Cuauhtémoc.
 ### Tecnologias usadas  
 [![My Skills](https://skillicons.dev/icons?i=nextjs,mysql,django,py,git,html,css,js,ts,nginx)](https://skillicons.dev)
 
@@ -49,6 +49,17 @@ Este es un proyecto personal, el cual permite ver mi cv en la web. Es un proyect
 [![My Skills](https://skillicons.dev/icons?i=vercel,git,react,html,css)](https://skillicons.dev)
 
 Puedes darle una checada a mi [CV en producción](https://21460686-cv-react-waas-three.vercel.app/), cualquier duda que te surga con gusto te la atiendo.
+
+## 3. Portafolio Web
+Otro de mis proyectos personales. En este proyecto tuve mayor libertad creativa para experimentar con diferentes estilos, diseños y componentes, buscando crear una presentación más personal de mi perfil como desarrollador.
+### Tecnologías usadas  
+[![My Skills](https://skillicons.dev/icons?i=vercel,git,next,html,css,ts,js,github)](https://skillicons.dev)
+
+Puedes visitar el proyecto en el siguiente enlace:
+
+> [Portafolio Web](https://ingluiscf-dev.vercel.app/)  
+
+Cualquier retroalimentación será bien recibida.
 
 # :package: Otros proyectos
 ## Tarjeta de presentación para un negocio
@@ -85,6 +96,6 @@ Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo p
 <div style="border:1px solid #05a8ff; border-radius:10px; padding:15px;">
 
 ***Idioma Inglés***  
- Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 3** como parte de mi formación continua y desarrollo profesional.
+ Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 3(B1)** como parte de mi formación continua y desarrollo profesional.
 
 </div>
