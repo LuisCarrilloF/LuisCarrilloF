@@ -27,7 +27,7 @@ Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en e
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,react,sqlite,laravel,nodejs,express,vscode,vue,vite,flutter)](https://skillicons.dev)
 
 
-Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauhtémoc, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
+Actualmente me encuentro realizando proyectos de forma independiente y autónoma, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
 
 # :star2: Proyectos destacados
 ## 1. :cloud: Bitácroa Digital
