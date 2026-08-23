@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LuisCarrilloF)](https://git.io/streak-stats)
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=LuisCarrilloF&theme=midnight&border_radius=6.5&custom_title=Otras+Estadisticas)
+
 
 ### Bienvenido a mi perfil 
 
@@ -101,5 +101,11 @@ Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo p
 
 ***Idioma Inglés***  
  Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 3(B1)** como parte de mi formación continua y desarrollo profesional.
+
+</div>
+
+<div>
+  
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=LuisCarrilloF&theme=midnight&border_radius=6.5&custom_title=Otras+Estadisticas)
 
 </div>
