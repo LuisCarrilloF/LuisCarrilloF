@@ -2,7 +2,10 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=ads-juicy-fresh&border_radius=4.9&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LuisCarrilloF)](https://git.io/streak-stats)
+
+
+
 ### Bienvenido a mi perfil 
 
 </div>
@@ -27,7 +30,7 @@ Mi nombre es Luis Ángel Carrillo Flores. Llevo más de medio año enfocado en e
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,react,sqlite,laravel,nodejs,express,vscode,vue,vite,flutter)](https://skillicons.dev)
 
 
-Actualmente me encuentro colaborando en proyectos para el Ayuntamiento de Cuauhtémoc, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
+Actualmente me encuentro realizando proyectos de forma independiente y autónoma, donde continúo adquiriendo experiencia y fortaleciendo mis habilidades en el desarrollo de software.
 
 # :star2: Proyectos destacados
 ## 1. :cloud: Bitácroa Digital
@@ -98,5 +101,11 @@ Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo p
 
 ***Idioma Inglés***  
  Estudiante de inglés en **EnglishMode**, actualmente cursando el **Nivel 3(B1)** como parte de mi formación continua y desarrollo profesional.
+
+</div>
+
+<div>
+  
+  ![GitHub Stats Card](https://ghstats.dev/api/card?username=LuisCarrilloF&theme=midnight&border_radius=6.5&custom_title=Otras+Estadisticas)
 
 </div>
