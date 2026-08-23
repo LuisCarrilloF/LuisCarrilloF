@@ -2,8 +2,7 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LuisCarrilloF)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisCarrilloF&theme=slateorange)](https://git.io/streak-stats)
 
 
 ### Bienvenido a mi perfil 
