@@ -4,7 +4,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LuisCarrilloF&theme=nightowl&locale=es)](https://git.io/streak-stats)
 
-[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCarrilloF)](https://github.com/LuisCarrilloF/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuisCarrilloF&layout=compact&langs_count=5&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=LuisCarrilloF&layout=compact&langs_count=5&hide_values=true&theme=ambient_gradient)
 
 ### Bienvenido a mi perfil 
 </div>
