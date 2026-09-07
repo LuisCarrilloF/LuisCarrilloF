@@ -4,8 +4,9 @@
 
 [![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=ads-juicy-fresh&border_radius=4.9&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
 
-### Bienvenido a mi perfil 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCarrilloF)](https://github.com/anuraghazra/github-readme-stats)
 
+### Bienvenido a mi perfil 
 </div>
 
 # INDICE
