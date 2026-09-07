@@ -2,12 +2,11 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LuisCarrilloF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisCarrilloF&theme=nightowl&locale=es)](https://git.io/streak-stats)
 
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LuisCarrilloF&layout=compact&langs_count=5&hide_values=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=LuisCarrilloF&layout=compact&langs_count=5&hide_values=true&theme=ambient_gradient)
 
 ### Bienvenido a mi perfil 
-
 </div>
 
 # INDICE
