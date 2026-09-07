@@ -2,9 +2,9 @@
 
 # ¡Hola! :wave:, yo soy Luis Carrillo [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
-[![GitHub Streak](https://github-readme-streak-red.vercel.app?user=LuisCarrilloF&theme=ads-juicy-fresh&border_radius=4.9&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LuisCarrilloF&theme=nightowl&locale=es)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCarrilloF)](https://github.com/anuraghazra/github-readme-stats)
+[![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisCarrilloF)](https://github.com/LuisCarrilloF/github-readme-stats)
 
 ### Bienvenido a mi perfil 
 </div>
