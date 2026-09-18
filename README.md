@@ -103,6 +103,13 @@ Estoy trabajando en ranchos o en otros proyectos, que me permitan tener tiempo p
 
 </div>
 
+<div style="border:1px solid #05a8ff; border-radius:10px; padding:15px;">
+
+***Curso AWS***  
+ Curse las jornadas clud de AWS exitosamente impartidas por **Commit Academy**, aprendí bases solidas sobre AWS.
+
+</div>
+
 <div>
   
   ![GitHub Stats Card](https://ghstats.dev/api/card?username=LuisCarrilloF&theme=midnight&border_radius=6.5&custom_title=Otras+Estadisticas)
